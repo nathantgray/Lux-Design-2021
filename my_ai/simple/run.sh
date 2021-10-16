@@ -1,1 +1,1 @@
-lux-ai-2021 ./main.py ./main.py --python=python3
+lux-ai-2021 ./main.py /home/nathangray/PycharmProjects/Lux-Design-2021/kits/python/simple/main.py --python=python3 --seed=399569828
